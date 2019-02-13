@@ -1,5 +1,7 @@
 # ZJUNIX
 
+Renaissance工程为在ZJUNIX工程上对进程控制、内存管理、文件系统模块进行修改后，功能更为完善的操作系统。由Lin Yuan, Fan Cui, Jiahao Liu完成于2018-2019秋冬学期操作系统课程设计。
+
 ## 简介
 
 ![ZJUNIX Experiments](https://img.shields.io/badge/ZJUNIX-Experiments-blue.svg)
